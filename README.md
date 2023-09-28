@@ -1,4 +1,27 @@
-### Hi there 👋
+# Kat Pokorny
+![gif](https://media.giphy.com/media/l3V0usErHR1dJYoU0/giphy.gif)
+> Happy to be on the food chain at all.
+
+## Major
+*Visual Communication Design **(BDes)** // Eastern Washington University* 
+
+## Skills
+- Adobe Creative Suite
+- Photography
+- Illustration
+
+## Superpower
+- 
+
+## Currently Learning
+- User Experience Design
+- Web Design
+- Animation
+
+## Free Time
+
+## Links
+[Go to Insta](https:instagram.com/hell.raisin)
 
 <!--
 **katpoko/katpoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
