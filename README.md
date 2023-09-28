@@ -24,7 +24,7 @@
 [Go to Insta](https:instagram.com/hell.raisin)
 
 ## Dept of Design 
-![ewu design page](https://www.ewu.edu/cstem/design/)
+![EWU Design Dept](https://www.ewu.edu/cstem/design/)
 
 <!--
 **katpoko/katpoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
