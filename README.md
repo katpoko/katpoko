@@ -1,5 +1,5 @@
 # Kat Pokorny
-![gif](https://media.giphy.com/media/l3V0usErHR1dJYoU0/giphy.gif)
+![gif](EndofZeWorld.webp)
 > Happy to be on the food chain at all.
 
 ## Major
